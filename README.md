@@ -13,9 +13,9 @@
   - Displaying card on file
   - Reusing the payment form
 - Cancelling Subscriptions And Resubscribing
- - Cancelling a subscription
- - Resubscribing using a new card
- - Resubscribing using an existing card
+  - Cancelling a subscription
+  - Resubscribing using a new card
+  - Resubscribing using an existing card
 - Listening To Webhooks And Adding Receipts
 - Requiring Cards for Sign Up
 
