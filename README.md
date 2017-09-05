@@ -1,6 +1,6 @@
 # Stripe Stroe (In progress)
 
- ## Descriptions: A complete and fully functional rails app integrating with stripe for payment and subscription 
+ ## Descriptions: A complete and fully functional Rails app integrating with stripe for payment and subscription 
 
 
 ## Models:
