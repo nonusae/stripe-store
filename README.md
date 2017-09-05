@@ -10,8 +10,8 @@
 ## Feature: 
 - Checkout Form with stripe
 - Update user card on File
- - Displaying card on file
- - Reusing the payment form
+  - Displaying card on file
+  - Reusing the payment form
 - Cancelling Subscriptions And Resubscribing
  - Cancelling a subscription
  - Resubscribing using a new card
