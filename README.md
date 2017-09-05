@@ -1,24 +1,27 @@
-# README
+# Stripe Stroe (In progress)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ ## Descriptions: A complete and fully functional rails app integrating with stripe for payment and subscription 
 
-Things you may want to cover:
 
-* Ruby version
+## Models:
+- X Product
+- X User -> Devise
 
-* System dependencies
+## Feature: 
+- Checkout Form with stripe
+- Update user card on File
+ - Displaying card on file
+ - Reusing the payment form
+- Cancelling Subscriptions And Resubscribing
+ - Cancelling a subscription
+ - Resubscribing using a new card
+ - Resubscribing using an existing card
+- Listening To Webhooks And Adding Receipts
+- Requiring Cards for Sign Up
 
-* Configuration
+## UI:
+- X Bootstrap -> formatting
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Refactor TODOS:
+- TODO
